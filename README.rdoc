@@ -1,0 +1,9 @@
+== README
+
+Just a basic setup I like to start with when creating a
+new RoR App.
+
+* Bootstrap
+* Bootswatch
+* NavLynx
+* Devise
